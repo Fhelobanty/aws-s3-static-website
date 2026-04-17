@@ -34,5 +34,18 @@ http://my-portfolio-website224.s3-website-ap-southeast-2.amazonaws.com/
 Web Testing; <img width="1920" height="996" alt="Done s3 web" src="https://github.com/user-attachments/assets/18e9b96a-a1f7-46ec-ba2c-bee2c78350c6" />
 Files in S3; <img width="1920" height="460" alt="Done Object" src="https://github.com/user-attachments/assets/409b7793-65ee-4f0f-ba3f-28c8b4c901de" />
 
+## Key Skills Demonstrated
+- Amazon S3 (Object Storage)
+- Static Website Hosting
+- IAM & Bucket Policies
+- Basic Web Hosting Concepts
+- Cloud Deployment Workflow
 
+## Outcome
 
+Successfully deployed a publicly accessible static website using AWS S3 without a traditional web server.
+
+## Author
+
+Atoyebi Micheal.
+Aspiring Cloud Engineer
